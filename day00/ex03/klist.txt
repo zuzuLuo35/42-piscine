@@ -1,0 +1,7 @@
+Credentials cache: API:25194
+        Principal: xluo@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  7 13:13:30 2017  Aug  7 23:13:30 2017  krbtgt/42.US.ORG@42.US.ORG
+Aug  7 13:13:32 2017  Aug  7 23:13:30 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
+Aug  7 13:16:37 2017  Aug  7 23:13:30 2017  host/vgs-fn1.42.us.org@42.US.ORG

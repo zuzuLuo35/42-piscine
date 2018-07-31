@@ -1,0 +1,2 @@
+file -C tf_magic; 
+find . -type f -name "*.42" -print
